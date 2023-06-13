@@ -1,0 +1,9 @@
+THe following Questions have been answered via the ipynb files with the:
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7 
+dataset, the years 2005 and 2006 were used for the analysis.
+The cleaning script is wrangling and cleaning data and clearing illogical values and removing unneeded columns 
+The Question 1 script answers " When is the best time of day, day of the week, and time of year to fly to minimise delays?"
+The Question 2 script answers "Do older planes suffer more delays?"
+The Question 3 script answers "How does the number of people flying between different locations change over time?"
+The Question 4 script answers "Can you detect cascading failures as delays in one airport create delays in others?"
+The Question 5 script answers "Use the available variables to construct a model that predicts delays."
